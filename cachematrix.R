@@ -3,6 +3,8 @@
 ## previous request for the inverse, we use previously computed one 
 
 
+
+
 ## take a matrix, return object having set and get fonctions
 ## for matrix and for its inverse in the environement from wich it is called
 makeCacheMatrix <- function(x = matrix()) {
