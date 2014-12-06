@@ -1,3 +1,5 @@
+The code in thefile cachematrix.R is modified 06 december 2014
+
 ### Introduction
 
 This second programming assignment will require you to write an R
